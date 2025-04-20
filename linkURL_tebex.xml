@@ -7,6 +7,7 @@
 ####### Eihwaz © #########
 ##### www.eihwaz.de ######
 ##########################
+BACKUP TEBEX LINK <link>https://down-under-undead.tebex.io/</link> 
 - - - - - - - - - - - -->
 
 <!-- Replace the url and upload the file (e.g. Github) -->
@@ -15,7 +16,7 @@
 
 <eihwaz.de>
 	<entry>
-		<link>https://down-under-undead.tebex.io/</link> 
+		<link></link> 
 		<!-- leave the rest unchanged -->
 		<date>2024-01-01 12:00:00Z</date>
 		<title>Server Panel Deluxe</title>
